@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Part1
+comment1.params=dna\ startIndex\ stopCodon
+comment1.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ testFindGene()
+comment2.params=dna\ start
+comment2.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment3.params=dna
+comment3.target=void\ printAllGenes(java.lang.String)
+comment4.params=dna
+comment4.target=edu.duke.StorageResource\ getAllGenes(java.lang.String)
+comment5.params=dna
+comment5.target=float\ cgRatio(java.lang.String)
+comment6.params=dna
+comment6.target=int\ countCTG(java.lang.String)
+comment7.params=sr
+comment7.target=void\ processGenes(edu.duke.StorageResource)
+comment8.params=
+comment8.target=void\ FinalTest()
+comment9.params=
+comment9.target=void\ testFindStopCodon()
+numComments=11
