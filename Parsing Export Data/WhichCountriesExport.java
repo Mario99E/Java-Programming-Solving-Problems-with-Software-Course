@@ -81,12 +81,12 @@ public class WhichCountriesExport {
         System.out.println(countryInfo(parser,"Nauru") );
         
         parser = fr.getCSVParser();
-        listExportersTwoProducts(parser,"gold","diamonds");
+        listExportersTwoProducts(parser,"cotton","flowers");
         
         parser = fr.getCSVParser();
-        System.out.println("Number of countries Export \"sugar\" :" +numberOfExporters(parser,"sugar") );
+        System.out.println("Number of countries Export \"cocoa\" :" +numberOfExporters(parser,"cocoa") );
         
         parser = fr.getCSVParser();
-        bigExporters (parser,"$999,999,999,999");        
+        bigExporters (parser," $999,999,999,999");        
     }
 }

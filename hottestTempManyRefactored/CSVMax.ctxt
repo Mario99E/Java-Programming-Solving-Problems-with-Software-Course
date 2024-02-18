@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CSVMax
+comment1.params=parser
+comment1.target=org.apache.commons.csv.CSVRecord\ hottestHourInFile(org.apache.commons.csv.CSVParser)
+comment2.params=parser
+comment2.target=org.apache.commons.csv.CSVRecord\ coldestHourInFile(org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=void\ testHottestInDay()
+comment4.params=
+comment4.target=void\ testColdestHourInFile()
+comment5.params=
+comment5.target=org.apache.commons.csv.CSVRecord\ hottestInManyDays()
+comment6.params=currentRow\ largestSoFar
+comment6.target=org.apache.commons.csv.CSVRecord\ getLargestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment7.params=currentRow\ smallestSoFar
+comment7.target=org.apache.commons.csv.CSVRecord\ getSmallestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment8.params=
+comment8.target=void\ testHottestInManyDays()
+numComments=9
